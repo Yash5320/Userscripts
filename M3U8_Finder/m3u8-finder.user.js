@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         Universal Stream & Subtitle Finder
-// @namespace    http://tampermonkey.net/
-// @version      4.0
+// @namespace    https://github.com/Yash5320
+// @version      1.0
 // @description  Detects M3U8 streams and Subtitle files (.vtt, .srt) and adds a UI to copy URLs or download.
 // @author       Yash
 // @match        *://*/*
 // @grant        GM_addStyle
 // @grant        GM_setClipboard
 // @run-at       document-start
-// @icon         data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0Ij48cGF0aCBkPSJNMCAwaDI0djI0SDBWMHoiIGZpbGw9Im5vbmUiLz48cGF0aCBkPSJNMjAgNEg0Yy0xLjEgMC0yIC45LTIgMnYxMmMwIDEuMS45IDIgMiAyaDE2YzEuMSAwIDItLjkgMi0yVjZjMCAxLjEtLjktMi0yLTJ6bTAgMTRINEw0IDZIMjB2MTJ6TTExIDExSDEwdjFINWwxLjg4LTIuNTFMMOCA5LjVsMS42MiAyLjE2TDEyIDEwLjV6Ii8+PC9zdmc+
+// @icon         data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCA0OCA0OCIgd2lkdGg9IjQ4Ij48cGF0aCBkPSJNMCAwaDQ4djQ4SDB6IiBmaWxsPSJub25lIi8+PHBhdGggZD0iTTQyIDZINGMtMS4xIDAtMiAuOS0yIDJ2MjRjMCAxLjEuOSAyIDIgMmgxNHY0SDIwdjRoOHYtNGgtNHYtNEg0MlY4YzAtMS4xLS45LTItMi0yeiBtMCAyNkgyMFY4aDIyVjMyem0tOC0xMUwyMiAxMy41djExTDM0IDIxWiIvPjwvc3ZnPg==
 // ==/UserScript==
 
 (function() {
@@ -179,3 +179,5 @@
     });
 
 })();
+
+

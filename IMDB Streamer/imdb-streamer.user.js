@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         IMDB Multi-Source Streamer
-// @namespace    https://legendzer0.io/
+// @namespace    https://github.com/Yash5320
 // @version      1.0
 // @description  Adds watch buttons on IMDb pages to stream from multiple sources (Vidsrc, Vidfast) in a new tab.
 // @author       Pain
