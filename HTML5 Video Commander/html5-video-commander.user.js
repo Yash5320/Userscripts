@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.4
 // @description  HTML5 Video Commander
-// @author       Pain
+// @author       Yash 
 // @match        *://*/*
 // @grant        GM_addStyle
 // @run-at       document-idle
