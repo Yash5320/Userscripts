@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         HTML5 Video Speed Controller + PiP (Pro)
-// @namespace    http://tampermonkey.net/
+// @name         HTML5 Video Speed Controller
+// @namespace    https://github.com/Yash5320
 // @version      1.4
 // @description  HTML5 Video Commander
-// @author       Yash 
+// @author       Pain
 // @match        *://*/*
 // @grant        GM_addStyle
 // @run-at       document-idle
